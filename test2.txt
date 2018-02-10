@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6E30-3084
+
+ Directory of C:\Users\Supriya Kulkarni\Desktop\New Java Project
+
+02/10/2018  02:21 PM    <DIR>          .
+02/10/2018  02:21 PM    <DIR>          ..
+02/10/2018  01:37 PM               476 Hello.class
+02/10/2018  01:00 PM               145 Hello.java
+02/10/2018  02:21 PM                 0 test2.txt
+               3 File(s)            621 bytes
+               2 Dir(s)  184,866,668,544 bytes free
